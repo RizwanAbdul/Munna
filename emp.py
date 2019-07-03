@@ -11,4 +11,6 @@ class Employee:
         print("address:",self.eaddr)
 
 e1=Employee(476,"rizwan",25000,"vijayawada")
+e2=Employee(480,"fayaz",259870,"Hyderabad")
 e1.display()
+e2.display()
